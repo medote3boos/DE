@@ -1,4 +1,4 @@
-# Th3_BOOS 
+# medo_te3boos
 
 طريقه تنصيب البوت
 
